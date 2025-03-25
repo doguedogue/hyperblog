@@ -1,5 +1,5 @@
 # Hyperblog 💚
-Un blog increíble para el[ ejercicio de Git](https://google.com/ "ejercicio de Git") de [Google](https://google.com/ "Google")
+Un blog para el[ ejercicio de Git](https://google.com/ "ejercicio de Git") de [Google](https://google.com/ "Google")
 > Prueba Machine Learning
 > - lorem
 
